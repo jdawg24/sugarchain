@@ -6,6 +6,7 @@
 
 #include <chainparamsbase.h>
 #include <compat.h>
+#include <deque>
 #include <util.h>
 #include <utilstrencodings.h>
 #include <netbase.h>
